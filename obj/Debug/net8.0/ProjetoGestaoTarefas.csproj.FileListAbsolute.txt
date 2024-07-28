@@ -1,0 +1,14 @@
+C:\ProjetoGestaoTarefas\bin\Debug\net8.0\ProjetoGestaoTarefas.exe
+C:\ProjetoGestaoTarefas\bin\Debug\net8.0\ProjetoGestaoTarefas.deps.json
+C:\ProjetoGestaoTarefas\bin\Debug\net8.0\ProjetoGestaoTarefas.runtimeconfig.json
+C:\ProjetoGestaoTarefas\bin\Debug\net8.0\ProjetoGestaoTarefas.dll
+C:\ProjetoGestaoTarefas\bin\Debug\net8.0\ProjetoGestaoTarefas.pdb
+C:\ProjetoGestaoTarefas\obj\Debug\net8.0\ProjetoGestaoTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoGestaoTarefas\obj\Debug\net8.0\ProjetoGestaoTarefas.AssemblyInfoInputs.cache
+C:\ProjetoGestaoTarefas\obj\Debug\net8.0\ProjetoGestaoTarefas.AssemblyInfo.cs
+C:\ProjetoGestaoTarefas\obj\Debug\net8.0\ProjetoGestaoTarefas.csproj.CoreCompileInputs.cache
+C:\ProjetoGestaoTarefas\obj\Debug\net8.0\ProjetoGestaoTarefas.dll
+C:\ProjetoGestaoTarefas\obj\Debug\net8.0\refint\ProjetoGestaoTarefas.dll
+C:\ProjetoGestaoTarefas\obj\Debug\net8.0\ProjetoGestaoTarefas.pdb
+C:\ProjetoGestaoTarefas\obj\Debug\net8.0\ProjetoGestaoTarefas.genruntimeconfig.cache
+C:\ProjetoGestaoTarefas\obj\Debug\net8.0\ref\ProjetoGestaoTarefas.dll
